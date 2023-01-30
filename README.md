@@ -2,5 +2,5 @@
 ___
 ## Лабораторная работа №8 на Python.
 ___
-![Screenshot](lab8.png)
+
 ![Screenshot](screenshot.PNG)
