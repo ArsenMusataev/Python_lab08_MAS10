@@ -1,6 +1,6 @@
-# Python_lab06_MAS10<h2>
+# Python_lab08_MAS10<h2>
 ___
-## Лабораторная работа №6 на Python.
+## Лабораторная работа №8 на Python.
 ___
 
 ![Screenshot](screenshot.PNG)
